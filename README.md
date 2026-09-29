@@ -1,3 +1,3 @@
 ### Jonason Lin
 
-Mathematics & Statistics at McGill (BSc, 2027). Mostly time series, forecasting and data tooling in R and Python.
+Mathematics at McGill (BSc, 2027). Mostly time series, forecasting and data tooling in R and Python.
